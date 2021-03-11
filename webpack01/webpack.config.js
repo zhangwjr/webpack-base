@@ -1,5 +1,6 @@
 const path = require('path'); 
 const htmlWebpackPlugin = require('html-webpack-plugin');
+console.log(__dirname);
 module.exports = {
   // 入口
   entry: {
