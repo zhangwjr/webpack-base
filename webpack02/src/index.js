@@ -9,3 +9,9 @@ console.log("hello webpack");
 // postcss 处理css
 
 // browserslist 浏览器集合，设置目标浏览器的工具
+
+// css的优化
+// 1.去掉冗余
+// 2.压缩
+
+// 如何实现自定义loader
